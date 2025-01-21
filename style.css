@@ -46,3 +46,29 @@ a:hover{
     color: blue;
     text-decoration: underline;
 }
+
+article{
+    text-align: center;
+}
+
+.hero{
+    width: 80%;
+    margin: auto;
+}
+
+.title{
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.des{
+    width: 60%;
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
